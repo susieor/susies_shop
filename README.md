@@ -1,2 +1,8 @@
 # susies_shop
-Created a custom database, added data, and performed analysis. Tasks included designing the schema, populating with values, and analysing insights such as spending patterns and peak purchase days. Evaluated customer behaviour and revenue to gain actionable insights.
+## Project Description
+In this project, I designed and created a custom database, populated it with data, and carried out various analyses. The workflow involved:
+
+Setting up the database schema.
+Inserting data into the database.
+Conducting analyses to extract insights.
+Key analyses included examining spending patterns, identifying peak purchase days, and analysing customer behaviour.
